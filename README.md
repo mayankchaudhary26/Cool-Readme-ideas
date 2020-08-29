@@ -18,7 +18,7 @@
 <br>
 
 ## github gif 1:
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
 <br>
 
 ## github gif 2:
@@ -30,9 +30,11 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+<br>
 
 ## cool profile intro:
 <img align="center" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
+<br>
 
 ## 🍕 mayank's followers 🍕
 [@get-satyam](https://github.com/get-satyam)      |      [@dshubham25](https://github.com/dshubham25) 
