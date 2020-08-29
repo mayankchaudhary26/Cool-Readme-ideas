@@ -28,9 +28,9 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 🍕 mayank's followers 🍕
-[@get-satyam](https://github.com/get-satyam) | [@devang-7](https://github.com/devang-7) | [@dshubham25](https://github.com/dshubham25) |
---- | --- | --- | ---
-![@get-satyam](https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4) | ![@@devang-7](https://avatars0.githubusercontent.com/u/56135357?s=400&u=3ebf5dc8993303d0f9a3f61516ef93daf1ff70dd&v=4) | ![@dshubham25](https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4) | 
+[@get-satyam](https://github.com/get-satyam) | [@dshubham25](https://github.com/dshubham25) 
+
+![@get-satyam](<img align='left' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4') | ![@dshubham25](<img align='right' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4') 
 
 ## social media badges:
 > you just need to add you username after /  , like <a href="https://twitter.com/_______user_name_here________"
