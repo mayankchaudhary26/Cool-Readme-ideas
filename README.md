@@ -12,6 +12,7 @@
  
 ## github gif:
 <img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
  
 ## code the cool stuff:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
@@ -24,13 +25,15 @@
 ## cool profile intro:
 <img align="center" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
 
-## 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 ## 🍕 mayank's followers 🍕
 [@get-satyam](https://github.com/get-satyam) | [@dshubham25](https://github.com/dshubham25) 
 
-![@get-satyam]<img align='left' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='200'> | ![@dshubham25]<img align='right' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='200'>
+![@get-satyam]<img align='left' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | ![@dshubham25]<img align='right' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'>
+
+
+
+
+
 
 ## social media badges:
 > you just need to add you username after /  , like <a href="https://twitter.com/_______user_name_here________"
