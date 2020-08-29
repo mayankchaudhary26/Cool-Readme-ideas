@@ -21,10 +21,13 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+
+
 ## Social media badges:
 > you just need to add you username after /  , like <a href="https://twitter.com/_______user_name_here________"
 
 <p align="center">
+  ![](https://komarev.com/ghpvc/?username=_____&color=brightgreen)
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
@@ -42,13 +45,3 @@
   </a>
 </p>
 
-
-
-## never give up:
- _   _                             _                         
- | \ | | _____   _____ _ __    __ _(_)_   _____   _   _ _ __  
- |  \| |/ _ \ \ / / _ \ '__|  / _` | \ \ / / _ \ | | | | '_ \ 
- | |\  |  __/\ V /  __/ |    | (_| | |\ V /  __/ | |_| | |_) |
- |_| \_|\___| \_/ \___|_|     \__, |_| \_/ \___|  \__,_| .__/ 
-                              |___/                    |_|    
-```
