@@ -11,8 +11,9 @@
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  
 ## github gif:
-<img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="left" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
+
  
 ## code the cool stuff:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
@@ -33,7 +34,9 @@
 
 
 
-
+<br>
+<br>
+<br>
 
 ## social media badges:
 > you just need to add you username after /  , like <a href="https://twitter.com/_______user_name_here________"
