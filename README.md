@@ -7,6 +7,9 @@
 ## laptop coding gif:
  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
  
+## code the cool stuff:
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+ 
 ## coding freak:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  
@@ -16,8 +19,7 @@
 
  
 <br> 
-## code the cool stuff:
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
 
 ## logos:
 <p align="center">
@@ -28,9 +30,9 @@
 <img align="center" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
 
 ## 🍕 mayank's followers 🍕
-[@get-satyam](https://github.com/get-satyam) | [@dshubham25](https://github.com/dshubham25) 
+[@get-satyam](https://github.com/get-satyam)      |      [@dshubham25](https://github.com/dshubham25) 
 
-![@get-satyam]<img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | ![@dshubham25]<img align='center' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'>
+<img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | <img align='center' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'>
 
 
 
