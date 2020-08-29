@@ -4,7 +4,7 @@
 ## dino gif:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <br>
- 
+<br> 
 ## laptop coding gif:
  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 <br>
