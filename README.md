@@ -1,6 +1,6 @@
-# Cool Readme items ideas :tada::tada::tada:
+   # Cool Readme items ideas :tada::tada::tada:
 
-
+<br>
 ## dino gif:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <br>
