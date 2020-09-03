@@ -1,4 +1,4 @@
-# Cool Readme profile items ideas :tada::tada::tada:
+# Cool Readme profile items :tada::tada::tada:
 <br>
 
 ## dino gif:
@@ -6,25 +6,22 @@
 <br>
 <br> 
 
+## laptop coding gif:
+ <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
+<br>
+
 ## coding freak:
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <br>
 
-## laptop coding gif:
- <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
-<br>
 
 ## code the cool stuff:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 <br>
 
-## handshake:
-<div align="left">
-<img align="left" width="350" height="200" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar"  />
-</div>
-<br>
-
+## nothing productive:
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 ## Curly hair:
 <br>
@@ -51,9 +48,6 @@
 </div>
 <br>
 
-##
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
 ## hello text :
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
@@ -68,12 +62,6 @@
 ## github gif 2:
 <img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br> 
-
-## handshake:
-<div align="left">
-<img align="left" width="350" height="200" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar"  />
-</div>
-<br>
 
 ## logos:
 <p align="center">
