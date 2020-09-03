@@ -22,11 +22,20 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-##
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/gifs/Hi.gif" width="30px"></h2>
+## hello text :
+<div align="left">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
+##
+[![Social banner for mayank ](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://rado_mayank.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Rado.
+</p>
+<p align='center'>For enquiries, reach out @ rado_mayank@rado_mayank.dev or over on <a href="https://twitter.com/rado_mayank">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 ## github gif 1:
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
