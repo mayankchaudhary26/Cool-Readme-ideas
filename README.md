@@ -28,7 +28,9 @@
 </div>
 
 ##
-[![Social banner for mayank ](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://rado_mayank.dev)
+<img align='center' src='http://purl.org/dc/dcmitype/StillImage' width='300"'>
+<br>
+(https://rado_mayank.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Rado.
