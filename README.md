@@ -5,6 +5,12 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <br>
 <br> 
+
+## coding freak 2:
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+<br>
+
 ## laptop coding gif:
  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 <br>
@@ -31,11 +37,6 @@
  
 ## coding freak:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<br>
-
-## coding freak 2:
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br>
 <br>
 
 ## handshake:
