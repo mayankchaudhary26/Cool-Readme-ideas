@@ -18,9 +18,12 @@
 <br>
 
 ## Curly hair:
-<p align="center">
+<p align="left">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
+
+##
+![Hey there, I'm Mayank. I'm an engineering student and ML enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 ## github gif 1:
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
