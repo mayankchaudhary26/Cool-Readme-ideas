@@ -23,7 +23,10 @@
 </p>
 
 ##
-![Hey there, I'm Mayank. I'm an engineering student and ML enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
 
 ## github gif 1:
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
