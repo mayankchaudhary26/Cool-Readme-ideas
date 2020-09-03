@@ -36,7 +36,7 @@
 
 ## handshake:
 <div align="left">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img align="left" width="350" height="200" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar"  />
 </div>
 <br>
 
