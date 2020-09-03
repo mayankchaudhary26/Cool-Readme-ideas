@@ -17,27 +17,37 @@
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <br>
 
+## coding freak 2:
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+
 ## Curly hair:
 <p align="left">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
+<br>
+
+## handshake:
+<div align="left">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+</div>
+<br>
+
+## eat sleep code repeat:
+<div align="left">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
+<br>
 
 ## hello text :
 <div align="left">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
-
-##
-<img align='center' src='http://purl.org/dc/dcmitype/StillImage' width='300"'>
 <br>
-(https://rado_mayank.dev)
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Rado.
-</p>
-<p align='center'>For enquiries, reach out @ rado_mayank@rado_mayank.dev or over on <a href="https://twitter.com/rado_mayank">Twitter</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+## need some space:
+<img align="left" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<br>
 
 ## github gif 1:
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
