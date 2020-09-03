@@ -7,12 +7,12 @@
 <br> 
 
 ## coding freak 2:
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <br>
 
 ## laptop coding gif:
- <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+ <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
 <br>
 
 ## code the cool stuff:
@@ -37,12 +37,6 @@
  
 ## coding freak:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<br>
-
-## handshake:
-<div align="left">
-<img align="left" width="350" height="200" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar"  />
-</div>
 <br>
 
 ## eat sleep code repeat:
