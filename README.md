@@ -22,6 +22,7 @@
 <br>
 
 ## Curly hair:
+<br>
 <p align="left">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
@@ -46,8 +47,10 @@
 <br>
 
 ## need some space:
+<br>
 <img align="left" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <br>
+
 
 ## github gif 1:
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
