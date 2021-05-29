@@ -6,6 +6,26 @@
 <br>
 <br> 
 
+## stick coding gif:
+![image]()
+<br>
+<br> 
+
+## stick coding gif:
+![image]()
+<br>
+<br> 
+
+## stick coding gif:
+![image]()
+<br>
+<br> 
+
+## stick coding gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif)
+<br>
+<br> 
+
 ## laptop coding gif:
  <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
 <br>
