@@ -1,38 +1,138 @@
 # Cool Readme profile items :tada::tada::tada:
 <br>
 
-## dino gif:
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
+## daftpunktocat guy gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
 <br>
 <br> 
 
-## trust me gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif)
+## daftpunktocat thomas gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif' width='300"'>
 <br>
-<br> 
+<br>
 
-## nerd coding gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif)
+## maxtocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/maxtocat.gif' width='300"'>
 <br>
-<br> 
+<br>
 
-## night coding gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif)
+## baracktocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg' width='300"'>
 <br>
-<br> 
+<br>
 
-## coding cat gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif)
+## boxertocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/boxertocat_octodex.jpg' width='300"'>
 <br>
-<br> 
+<br>
 
-## cool girl gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/cool.gif)
+## carlostocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/carlostocat.gif' width='300"'>
 <br>
-<br> 
+<br>
+
+## dojocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/dojocat.jpg' width='300"'>
+<br>
+<br>
+
+## codercat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/codercat.jpg' width='300"'>
+<br>
+<br>
+
+## droctocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/droctocat.png' width='300"'>
+<br>
+<br>
+
+## droidtocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/droidtocat.png' width='300"'>
+<br>
+<br>
+
+## gangnamtocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
+<br>
+<br>
+
+## heisencat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png' width='300"'>
+<br>
+<br>
+
+## homercat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/homercat.png' width='300"'>
+<br>
+<br>
+
+## ironcat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/ironcat.jpg' width='300"'>
+<br>
+<br>
+
+## minion gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'>
+<br>
+<br>
+
+## okal-eltocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg' width='300"'>
+<br>
+<br>
+
+## plumber gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/plumber.jpg' width='300"'>
+<br>
+<br>
+
+## spidertocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300"'>
+<br>
+<br>
+
+## steroidtocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/steroidtocat.png' width='300"'>
+<br>
+<br>
+
+## stormtroopocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/stormtroopocat.png' width='300"'>
+<br>
+<br>
+
+## xtocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/xtocat.jpg' width='300"'>
+<br>
+<br>
+
+## yogitocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/yogitocat.png' width='300"'>
+<br>
+<br>
+
+## Curly hair:
+<br>
+<p align="left">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+<br>
+
+## eat sleep code repeat:
+<div align="left">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
+<br>
 
 ## coffee gif:
 ![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif)
+<br>
+<br> 
+
+
+## coding cat gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif)
 <br>
 <br> 
 
@@ -41,15 +141,15 @@
 <br>
 <br> 
 
-## laptop coding gif:
- <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
-<br>
-
 ## coding freak:
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <br>
 
+## night coding gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif)
+<br>
+<br> 
 
 ## code the cool stuff:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
@@ -58,12 +158,6 @@
 ## nothing productive:
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-## Curly hair:
-<br>
-<p align="left">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-<br>
 
 ## need some space:
 <br>
@@ -75,18 +169,6 @@
  
 ## coding freak:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-<br>
-
-## eat sleep code repeat:
-<div align="left">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
-</div>
-<br>
-
-## hello text :
-<div align="left">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
-</div>
 <br>
 
 
@@ -102,7 +184,44 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+<br> 
+
+## cool girl gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/cool.gif)
 <br>
+<br> 
+
+## dino gif:
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+<br>
+<br> 
+
+## chill gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif)
+<br>
+<br>
+
+## trust me gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif)
+<br>
+<br> 
+
+## nerd coding gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif)
+<br>
+<br> 
+
+## laptop coding gif:
+ <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
+<br>
+
+
+## hello text :
+<div align="left">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+</div>
+<br>
+
 
 ## 🍕 mayank's followers 🍕
 [@get-satyam](https://github.com/get-satyam)      |      [@dshubham25](https://github.com/dshubham25)      |       [@devang-7](https://github.com/devang-7) 
