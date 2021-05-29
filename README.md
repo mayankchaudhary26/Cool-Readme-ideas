@@ -69,10 +69,6 @@
 </p>
 <br>
 
-## cool profile intro:
-<img align="center" src="https://github-readme-7ma7X.vercel.app/api?username=mayankchaudhary26&hide_title=true&show_icons=true&theme=tokyonight" />
-<br>
-
 ## 🍕 mayank's followers 🍕
 [@get-satyam](https://github.com/get-satyam)      |      [@dshubham25](https://github.com/dshubham25)      |       [@devang-7](https://github.com/devang-7) 
 
