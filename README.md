@@ -6,18 +6,33 @@
 <br>
 <br> 
 
-## stick coding gif:
-![image]()
+## trust me gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif)
 <br>
 <br> 
 
-## stick coding gif:
-![image]()
+## nerd coding gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif)
 <br>
 <br> 
 
-## stick coding gif:
-![image]()
+## night coding gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif)
+<br>
+<br> 
+
+## coding cat gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif)
+<br>
+<br> 
+
+## cool girl gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/cool.gif)
+<br>
+<br> 
+
+## coffee gif:
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif)
 <br>
 <br> 
 
