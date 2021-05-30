@@ -1,12 +1,6 @@
 # Cool Readme profile items :tada::tada::tada:
 <br>
 
-## hello text :
-<div align="left">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
-</div>
-<br>
-
 ## daftpunktocat guy gif:
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
 <br>
@@ -224,6 +218,11 @@
 <br>
 <br>
   
+## hello text :
+<div align="left">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  </h2>
+</div>
+<br>
 
 ## logos:
 <p align="center">
