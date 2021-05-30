@@ -1,6 +1,11 @@
 # Cool Readme profile items :tada::tada::tada:
 <br>
 
+## hello text :
+<div align="left">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+</div>
+<br>
 
 ## daftpunktocat guy gif:
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
@@ -21,6 +26,14 @@
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg' width='300"'>
 <br>
 <br>
+
+## github gif 1:
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
+<br>
+
+## github gif 2:
+<img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<br> 
 
 ## boxertocat gif:
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/boxertocat_octodex.jpg' width='300"'>
@@ -172,20 +185,6 @@
 <br>
 
 
-## github gif 1:
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
-<br>
-
-## github gif 2:
-<img align="center" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br> 
-
-## logos:
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-<br> 
-
 ## cool girl gif:
 ![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/cool.gif)
 <br>
@@ -214,25 +213,23 @@
 ## laptop coding gif:
  <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
 <br>
-
-
-## hello text :
-<div align="left">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
-</div>
-<br>
-
+ 
 
 ## 🍕 mayank's followers 🍕
-[@get-satyam](https://github.com/get-satyam)      |      [@dshubham25](https://github.com/dshubham25)      |       [@devang-7](https://github.com/devang-7) 
+[@get-satyam](https://github.com/get-satyam)      |      [@dshubham25](https://github.com/dshubham25)      |       [@devang-7](https://github.com/devang-7)      |       [@piyush7900](https://github.com/piyush7900)      |       [@SmokeYOU](https://github.com/SmokeYOU)      |       [@Magicianred](https://github.com/Magicianred)      |       [@prathimacode-hub](https://github.com/prathimacode-hub) 
 
-<img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | <img align='center' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'> | <img align='center' src='https://avatars0.githubusercontent.com/u/56135357?s=400&u=3ebf5dc8993303d0f9a3f61516ef93daf1ff70dd&v=4' width='100'>
-
-
+<img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | <img align='center' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'> | <img align='center' src='https://avatars0.githubusercontent.com/u/56135357?s=400&u=3ebf5dc8993303d0f9a3f61516ef93daf1ff70dd&v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/70484570?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/70598100?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/4624113?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/74645302?v=4' width='100'> 
 
 <br>
 <br>
 <br>
+  
+
+## logos:
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>    
 
 ## social media badges:
 > you just need to add you username after /  , like <a href="https://twitter.com/_______user_name_here________"
