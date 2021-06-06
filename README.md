@@ -1,4 +1,7 @@
 # Cool Readme profile items :tada::tada::tada:
+
+share :) <img align='center' alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmayankchaudhary26%2FCool-Readme-ideas"> 
+<br>
 <br>
 
 ## daftpunktocat guy gif:
