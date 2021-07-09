@@ -4,6 +4,14 @@ share :) <img align='center' alt="Twitter URL" src="https://img.shields.io/twitt
 <br>
 <br>
 
+## my contribution graph get eaten by the snake 🐍:
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
+##### *refer this for complete guide: <br>
+https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+<br>
+<br> 
+
 ## daftpunktocat guy gif:
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300"'>
 <br>
