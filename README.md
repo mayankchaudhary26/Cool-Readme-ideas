@@ -1,6 +1,13 @@
 # Cool Readme profile items :tada::tada::tada:
+<div align="center">
+  
+  
+༼ つ ◕_◕ ༽つ  Please share  
+  
+<img align='center' alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://github.com/mayankchaudhary26/Cool-Readme-ideas"> 
 
-share :) <img align='center' alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fmayankchaudhary26%2FCool-Readme-ideas"> 
+</div>
+
 <br>
 <br>
 
