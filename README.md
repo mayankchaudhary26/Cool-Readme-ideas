@@ -2,7 +2,7 @@
 <div align="center">
   
   
-༼ つ ◕_◕ ༽つ  Please share  
+༼ つ ◕_◕ ༽つ  Share this :)  
   
 <img align='center' alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https://github.com/mayankchaudhary26/Cool-Readme-ideas"> 
 
