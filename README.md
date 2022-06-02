@@ -217,12 +217,12 @@
 
 
 ## coding cat gif:
-<p align="center"> <img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
+<p align="center" img src= "https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
 <br>
 <br> 
 
 ## stick coding gif:
-<p align="center"> <img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
+<p align="center" img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
 <br>
 <br> 
 
@@ -241,7 +241,7 @@
 <br>
 
 ## nothing productive:
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<img align="center" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
 ## need some space:
@@ -253,47 +253,47 @@
 <br>
   
 ## lofi:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
 <br>
 <br>
 <br>
   
 
 ## screen open:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 <br>
 <br>
 <br>
   
 
 ## lofi:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" />
 <br>  
 <br>
 <br>
   
 
 ## phone-on:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" />
 <br>  
 <br>
 <br>
   
 
 ## productive:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
 <br>  
 <br>
 <br>
 
 ## lamp shift:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp shift.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp shift.gif" />
 <br>  
 <br>
 <br>
  
 ## multi-screen:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" />
 <br>    
 <br>
 <br>
