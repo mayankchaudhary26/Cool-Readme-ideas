@@ -251,16 +251,59 @@
 <br>
 <br>
 <br>
+  
+## lofi:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br>
+<br>
+<br>
+  
+
+## screen open:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<br>
+<br>
+<br>
+  
+
+## lofi:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif" />
+<br>  
+<br>
+<br>
+  
+
+## phone-on:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" />
+<br>  
+<br>
+<br>
+  
+
+## productive:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<br>  
+<br>
+<br>
+
+## lamp shift:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp shift.gif" />
+<br>  
+<br>
+<br>
+ 
+## multi-screen:
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" />
+<br>    
+<br>
+<br>
  
 ## coding freak:
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <br>
-
-
-## cool girl gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/cool.gif)
 <br>
-<br> 
+
+
 
 ## dino gif:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
