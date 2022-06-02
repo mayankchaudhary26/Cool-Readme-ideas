@@ -199,8 +199,7 @@
 
 ## Curly hair:
 <br>
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <br>
 
@@ -232,12 +231,12 @@
 <br>
 
 ## night coding gif:
-<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
 <br>
 <br> 
 
 ## code the cool stuff:
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<img align="center" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 <br>
 
 ## nothing productive:
