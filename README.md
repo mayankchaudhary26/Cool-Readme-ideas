@@ -211,28 +211,28 @@
 <br>
 
 ## coffee gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
 <br>
 <br> 
 
 
 ## coding cat gif:
-<p align="center" img src= "https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
 <br>
 <br> 
 
 ## stick coding gif:
-<p align="center" img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
 <br>
 <br> 
 
 ## coding freak:
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <br>
 
 ## night coding gif:
-<p align="center"> <img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
 <br>
 <br> 
 
