@@ -199,30 +199,30 @@
 
 ## Curly hair:
 <br>
-<p align="left">
+<p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <br>
 
 ## eat sleep code repeat:
-<div align="left">
+<div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
 </div>
 <br>
 
 ## coffee gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif)
+![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
 <br>
 <br> 
 
 
 ## coding cat gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif)
+<p align="center"> <img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
 <br>
 <br> 
 
 ## stick coding gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif)
+<p align="center"> <img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
 <br>
 <br> 
 
@@ -232,7 +232,7 @@
 <br>
 
 ## night coding gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif)
+<p align="center"> <img src=https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
 <br>
 <br> 
 
@@ -246,7 +246,7 @@
 
 ## need some space:
 <br>
-<div align="left">
+<div align="center">
 <img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height="270px" width="450px" alt="GIF" />
 <br>
 <br>
@@ -306,22 +306,22 @@
 
 
 ## dino gif:
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+ <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 <br>
 <br> 
 
 ## chill gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif)
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif" />
 <br>
 <br>
 
 ## trust me gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif)
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
 <br>
 <br> 
 
 ## nerd coding gif:
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif)
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/python-2.gif" />
 <br>
 <br> 
 
